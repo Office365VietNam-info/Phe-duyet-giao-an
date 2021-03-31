@@ -49,10 +49,10 @@ Video hướng dẫn:
 Video hướng dẫn:
 [![Watch the video](https://img.youtube.com/vi/o_dVGseGH_0/maxresdefault.jpg)](https://youtu.be/o_dVGseGH_0)
 
-- Tổng hợp thông tin phê duyệt giáo án tổ chuyên môn Toán???
+- Tổng hợp thông tin phê duyệt giáo án tổ chuyên môn Toán
 
 Video hướng dẫn:
-[![Watch the video](https://img.youtube.com/vi/_tmOmCL8t0s/maxresdefault.jpg)](https://youtu.be/o_dVGseGH_0)
+[![Watch the video](https://img.youtube.com/vi/oUk4Nb6FPyU/maxresdefault.jpg)](https://youtu.be/oUk4Nb6FPyU)
 
 - Tổng hợp thông tin phê duyệt giáo án tổ chuyên môn Văn
 
