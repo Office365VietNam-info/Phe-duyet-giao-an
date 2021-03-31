@@ -37,37 +37,29 @@ Mẫu tham khảo như hình dưới:
 Video hướng dẫn:
 [![Watch the video](https://img.youtube.com/vi/17Vnce8bR3U/maxresdefault.jpg)](https://youtu.be/17Vnce8bR3U)
 
-d. Hoàn chỉnh giao diện trên teams
-Thêm các apps vào nhóm Teams đã tạo ở trên để quản lý.
-- Kênh **Nộp sản phẩm dự thi** thêm **Lists**(chứa thông tin SharePoint list **Tổng hợp giáo án**).
-- Các kênh cho **Tổ chuyên môn Toán, Văn** thêm **Lists**(chứa thông tin SharePoint list **Tổ chuyên môn Toán, Văn**).
-
-Video hướng dẫn:
-[![Watch the video](https://img.youtube.com/vi/Y43JbfVH-Jg/maxresdefault.jpg)](https://youtu.be/Y43JbfVH-Jg)
-
-e. Cập nhật các gói PowerAutomate
+d. Cập nhật các gói PowerAutomate
 - Cập nhật flow: Nộp giáo án
 Video hướng dẫn:
-[![Watch the video](https://img.youtube.com/vi/IekGYklcO5k/maxresdefault.jpg)](https://youtu.be/IekGYklcO5k)
+[![Watch the video](https://img.youtube.com/vi/qSfdUHt7OLw/maxresdefault.jpg)](https://youtu.be/qSfdUHt7OLw)
 
 - Cập nhật flow: Chép tập tin và thư mục quản lý chung
 Video hướng dẫn:
-[![Watch the video](https://img.youtube.com/vi/3Gkv-ysHoUI/maxresdefault.jpg)](https://youtu.be/3Gkv-ysHoUI)
+[![Watch the video](https://img.youtube.com/vi/o_dVGseGH_0/maxresdefault.jpg)](https://youtu.be/o_dVGseGH_0)
 
-- Tổng hợp thông tin phê duyệt giáo án tổ chuyên môn Toán
+- Tổng hợp thông tin phê duyệt giáo án tổ chuyên môn Toán???
 Video hướng dẫn:
-[![Watch the video](https://img.youtube.com/vi/_tmOmCL8t0s/maxresdefault.jpg)](https://youtu.be/_tmOmCL8t0s)
+[![Watch the video](https://img.youtube.com/vi/_tmOmCL8t0s/maxresdefault.jpg)](https://youtu.be/o_dVGseGH_0)
 
 - Tổng hợp thông tin phê duyệt giáo án tổ chuyên môn Văn
 Video hướng dẫn:
-[![Watch the video](https://img.youtube.com/vi/jc9hnAUVxXA/maxresdefault.jpg)](https://youtu.be/jc9hnAUVxXA)
+[![Watch the video](https://img.youtube.com/vi/lKPZ4Go5cXg/maxresdefault.jpg)](https://youtu.be/lKPZ4Go5cXg)
 
 - Kiểm thử và chỉnh sửa
 Video hướng dẫn:
-[![Watch the video](https://img.youtube.com/vi/ZSOv3bje4lU/maxresdefault.jpg)](https://youtu.be/ZSOv3bje4lU)
+[![Watch the video](https://img.youtube.com/vi/ruFBcRq13ro/maxresdefault.jpg)](https://youtu.be/ruFBcRq13ro)
 
 - Phân quyền bổ sung
-[![Watch the video](https://img.youtube.com/vi/nDPJ2MyZByI/maxresdefault.jpg)](https://youtu.be/nDPJ2MyZByI)
+[![Watch the video](https://img.youtube.com/vi/smzWwlMVOF0/maxresdefault.jpg)](https://youtu.be/smzWwlMVOF0)
 
 
 Chúc các bạn thành công và có thể tùy chỉnh để có thể áp dụng cho nhiều mục đích khác trong tổ chức!
