@@ -30,7 +30,7 @@ c. Tạo nhóm trên Teams
 Tạo 1 nhóm trên Teams có các kênh:
 - Thông báo(chế độ: standard): để gửi thông báo khi có sản phẩm dự thi được nộp.
 - Tổng hợp giáo án(chế độ: private): để lưu thông tin giáo án đã nộp và duyệt.
-- Các kênh ** Tổ chuyên môn Toán, Văn** (chế độ: private): để lưu thông tin giáo án đã nộp duyệt cho tổ trưởng tổ chuyên môn.
+- Các kênh **Tổ chuyên môn Toán, Văn** (chế độ: private): để lưu thông tin giáo án đã nộp duyệt cho tổ trưởng tổ chuyên môn.
 Mẫu tham khảo như hình dưới:
 ![alt text](https://github.com/Office365VietNam-info/Phe-duyet-giao-an/blob/main/Images/Teams.png?raw=true)
 
@@ -39,22 +39,27 @@ Video hướng dẫn:
 
 d. Cập nhật các gói PowerAutomate
 - Cập nhật flow: Nộp giáo án
+
 Video hướng dẫn:
 [![Watch the video](https://img.youtube.com/vi/qSfdUHt7OLw/maxresdefault.jpg)](https://youtu.be/qSfdUHt7OLw)
 
 - Cập nhật flow: Chép tập tin và thư mục quản lý chung
+
 Video hướng dẫn:
 [![Watch the video](https://img.youtube.com/vi/o_dVGseGH_0/maxresdefault.jpg)](https://youtu.be/o_dVGseGH_0)
 
 - Tổng hợp thông tin phê duyệt giáo án tổ chuyên môn Toán???
+
 Video hướng dẫn:
 [![Watch the video](https://img.youtube.com/vi/_tmOmCL8t0s/maxresdefault.jpg)](https://youtu.be/o_dVGseGH_0)
 
 - Tổng hợp thông tin phê duyệt giáo án tổ chuyên môn Văn
+
 Video hướng dẫn:
 [![Watch the video](https://img.youtube.com/vi/lKPZ4Go5cXg/maxresdefault.jpg)](https://youtu.be/lKPZ4Go5cXg)
 
 - Kiểm thử và chỉnh sửa
+
 Video hướng dẫn:
 [![Watch the video](https://img.youtube.com/vi/ruFBcRq13ro/maxresdefault.jpg)](https://youtu.be/ruFBcRq13ro)
 
