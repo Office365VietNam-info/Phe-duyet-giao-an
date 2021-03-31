@@ -16,7 +16,7 @@ Tạo Forms để nhận kết quả dự thi, forms mẫu như hình bên dư�
 Video hướng dẫn:
 [![Watch the video](https://img.youtube.com/vi/NHzyIHOkm1k/maxresdefault.jpg)](https://youtu.be/NHzyIHOkm1k)
 
-c. Tạo trang Sharepoint site
+b. Tạo trang Sharepoint site
 Tạo 1 trang SharePoint site để lưu thông tin đăng ký từ forms và lưu sản phẩn dự thi.
 Tạo SharePoint list: 
 - Tổng hợp giáo án.
