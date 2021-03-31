@@ -14,18 +14,7 @@ Tạo Forms để nhận kết quả dự thi, forms mẫu như hình bên dư�
 ![alt text](https://github.com/Office365VietNam-info/Phe-duyet-giao-an/blob/main/Images/Forms.png?raw=true)
 
 Video hướng dẫn:
-[![Watch the video](https://img.youtube.com/vi/mTmKMMafNWs/maxresdefault.jpg)](https://youtu.be/mTmKMMafNWs)
-
-b. Tạo nhóm trên Teams
-Tạo 1 nhóm trên Teams có các kênh:
-- Thông báo(chế độ: standard): để gửi thông báo khi có sản phẩm dự thi được nộp.
-- Tổng hợp giáo án(chế độ: private): để lưu thông tin giáo án đã nộp và duyệt.
-- Các kênh ** Tổ chuyên môn Toán, Văn** (chế độ: private): để lưu thông tin giáo án đã nộp duyệt cho tổ trưởng tổ chuyên môn.
-Mẫu tham khảo như hình dưới:
-![alt text](https://github.com/Office365VietNam-info/Phe-duyet-giao-an/blob/main/Images/Teams.png?raw=true)
-
-Video hướng dẫn:
-[![Watch the video](https://img.youtube.com/vi/J--UchXEFlk/maxresdefault.jpg)](https://youtu.be/J--UchXEFlk)
+[![Watch the video](https://img.youtube.com/vi/NHzyIHOkm1k/maxresdefault.jpg)](https://youtu.be/NHzyIHOkm1k)
 
 c. Tạo trang Sharepoint site
 Tạo 1 trang SharePoint site để lưu thông tin đăng ký từ forms và lưu sản phẩn dự thi.
@@ -35,7 +24,18 @@ Tạo SharePoint list:
 Mẫu các cột thông tin cần thiết tại https://github.com/Office365VietNam-info/Phe-duyet-giao-an/tree/main/SharePoint
 
 Video hướng dẫn:
-[![Watch the video](https://img.youtube.com/vi/7jn4C8pqKmo/maxresdefault.jpg)](https://youtu.be/7jn4C8pqKmo)
+[![Watch the video](https://img.youtube.com/vi/ESS-wGbG1Tw/maxresdefault.jpg)](https://youtu.be/ESS-wGbG1Tw)
+
+c. Tạo nhóm trên Teams
+Tạo 1 nhóm trên Teams có các kênh:
+- Thông báo(chế độ: standard): để gửi thông báo khi có sản phẩm dự thi được nộp.
+- Tổng hợp giáo án(chế độ: private): để lưu thông tin giáo án đã nộp và duyệt.
+- Các kênh ** Tổ chuyên môn Toán, Văn** (chế độ: private): để lưu thông tin giáo án đã nộp duyệt cho tổ trưởng tổ chuyên môn.
+Mẫu tham khảo như hình dưới:
+![alt text](https://github.com/Office365VietNam-info/Phe-duyet-giao-an/blob/main/Images/Teams.png?raw=true)
+
+Video hướng dẫn:
+[![Watch the video](https://img.youtube.com/vi/17Vnce8bR3U/maxresdefault.jpg)](https://youtu.be/17Vnce8bR3U)
 
 d. Hoàn chỉnh giao diện trên teams
 Thêm các apps vào nhóm Teams đã tạo ở trên để quản lý.
