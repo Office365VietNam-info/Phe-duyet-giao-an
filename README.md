@@ -10,6 +10,7 @@ Quy trình nhận và phê duyệt giáo án
 
 # 3. Các bước làm
 a. Tạo Forms
+
 Tạo Forms để nhận kết quả dự thi, forms mẫu như hình bên dưới:
 ![alt text](https://github.com/Office365VietNam-info/Phe-duyet-giao-an/blob/main/Images/Forms.png?raw=true)
 
