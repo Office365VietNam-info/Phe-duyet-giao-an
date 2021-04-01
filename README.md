@@ -18,7 +18,7 @@ Video hướng dẫn:
 [![Watch the video](https://img.youtube.com/vi/NHzyIHOkm1k/maxresdefault.jpg)](https://youtu.be/NHzyIHOkm1k)
 
 b. Tạo trang Sharepoint site
-Tạo 1 trang SharePoint site để lưu thông tin đăng ký từ forms và lưu sản phẩn dự thi.
+Tạo 1 trang SharePoint site để lưu thông tin đăng ký từ forms và lưu giáo án.
 Tạo SharePoint list: 
 - Tổng hợp giáo án.
 - Tổ chuyên môn Toán, Văn.
