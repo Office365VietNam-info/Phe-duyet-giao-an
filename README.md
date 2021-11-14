@@ -68,6 +68,7 @@ Video hướng dẫn:
 [![Watch the video](https://img.youtube.com/vi/smzWwlMVOF0/maxresdefault.jpg)](https://youtu.be/smzWwlMVOF0)
 
 e. Tối ưu quy trình duyệt giáo án:
+
 **Đối tượng:** Tất cả điều chỉnh bên dưới làm trong PowerAutomate và SharePoint list.
 **Các bước:**
 1. Nâng giới hạn Get-items.
