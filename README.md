@@ -67,5 +67,15 @@ Video hướng dẫn:
 - Phân quyền bổ sung
 [![Watch the video](https://img.youtube.com/vi/smzWwlMVOF0/maxresdefault.jpg)](https://youtu.be/smzWwlMVOF0)
 
+e. Tối ưu quy trình duyệt giáo án:
+**Đối tượng:** Tất cả điều chỉnh bên dưới làm trong PowerAutomate và SharePoint list.
+**Các bước:**
+1. Nâng giới hạn Get-items.
+ - Tìm tất cả các action là apply to each và tăng lên ngưỡng tối đa: 5000.
+2. Giảm tối đa số lượng vòng lặp
+ - Chuyển cột giáo án sang loại Choice.
+ - Chỉnh thuộc tính Filter query trong Get-items. Chỉ lọc ra chính xác dữ liệu mình cần.
+
+[![Watch the video](https://img.youtube.com/vi/HNbF_HwPkMw/maxresdefault.jpg)](https://youtu.be/HNbF_HwPkMw)
 
 Chúc các bạn thành công và có thể tùy chỉnh để có thể áp dụng cho nhiều mục đích khác trong tổ chức!
